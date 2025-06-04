@@ -38,7 +38,7 @@ RFM analysis is a proven method in marketing analytics for understanding custome
 6. **Segment list extraction as csv file.**
     - Export customer segment lists (by segment type) as CSV files for further use or sharing.
 ---
-📁 Folder: `01_penguins_eda/`  
+ 
 ▶️ [View Notebook](OnlineRetail_RFM_Project.ipynb)
 
 #### 📷 Sample Output:
